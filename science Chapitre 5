@@ -9,4 +9,35 @@ Quels sont les 3 types de leviers? ||Interappui, Interésistant, Interforce.||
 Quels sont les 2 types de poulies? ||Mobile et fixe||
 C'est quoi un plan incliné? || Pente en biais par rapport à l'horizontale et réduisant la force nécesssaire pour monter ou descendre un objet en hauteur||
 C'est quoi le rapport entre le plan incliné et la vis? || La vis est un application du plan incliné, le plan incliné est enroulé autour d'un axe.||
-Plus la distance entre deux ||filets|| est ||grande||, la vis s'enfonce plus || facilement||, mais prend ||plus de temps||
+Plus la distance entre deux ||filets|| est ||petite||, la vis s'enfonce plus || facilement||, mais prend ||plus de temps||
+C'est quoi le coin? ||Une machine simple construites d'un ou deux plan incliné qui forme un cône aiguisée||
+C'est quoi les 3 composants d'un levier? ||la force, la charge, le point d'appui||
+Quels sont les 3 types de leviers? ||Interappui, Interésistant, Interforce.||
+C'est quoi le levier interappui?  ||Point d'appui est entre la force et la charge||
+C'est quoi le levier interrésistant?  ||La charge est entre le point d'appui et la force||
+C'est quoi le levier inter force?  ||La force est entre le point d'appui et la charge||
+PLUS LA FORCE APPLIQUÉE EST ||LOIN|| DU POINT D'APPUI ET PLUS IL EST||FACILE|| DE SOULEVER LA CHARGE
+Levier double: ||deux leviers ensembles Par exemple: ciseaux, casse-noisettes, coupe-onlges, pinces à épiler||
+Roue def: ||Pièce circulaire tournant autour d'un essieu.||
+PLUS LA DIFFÉRENCE DE GRANDEUR ENTRE LE ||RAYON|| DE LA ROUE ET DE ||L'ESSIEU|| EST GRANDE, PLUS LA FORCE NÉCESSAIRE POUR FAIRE TOURNER LA ROUE EST ||IMPORTANTE||
+Poulie fixe def:  ||Ne diminue pas la force à appliqué, modifie son orientation||
+Poulie mobile def: ||Réduit la moitié de la force à appliqué, déplacement sera plus petit||
+5.3 Les mécanismes de transmission du mouvement
+Organe moteur def: || Reçoit la force||
+Organe intermédiaire def: || Pas toujours là, lie les deux organes||
+Organe mené def : || Reçoit le mouvement||
+LE MOUVEMENT TRANSMIE PEUT ÊTRE UN MOUVEMENT DE ||TRANSLATION|| OU DE ||ROTATION||
+Roue de friction def:  ||RÉVERSIBLE, si une roue tourne horaire, l'autre tourne antihoraire||
+Engrenage (roues dentée) def:  ||RÉVERSIBLE, si une roue tourne horaire, l'autre tourne antihoraire||
+Courroie et poulies def:  ||RÉVERSIBLE, sens de rotation est la même, il faut croiser la courroie pour inverser le sens de rotation||
+Cahaîne et roues dentées def:  ||RÉVERSIBLE, le sens de rotation est ls même||
+Vis sans fin et roue dentée def:  ||IRRÉVERSIBLE, c'est toujours la vis sans fin qui entraîne de mouvement||
+5.4 Les mécanismes de transformation du mouvement
+Rotation -->  ||Translation||
+Translation --> ||Rotation||
+Vis : Toujours organe ||moteur||
+Vis et écrou: ||IRRÉVERSIBLE, transforme un mouvement de rotation en mouvement de translation||
+Pignon et crémaillère: ||RÉVERSIBLE, transforme un mouvement de rotation en mouvement de translation ou inversément||
+Vis sans fin et crémaillère:  ||IRRÉVERSIBLE, transforme un mouvement de rotation en mouvement de translation||
+Bielle et manivelle: || RÉVERSIBLE, transforme un mouvement de translation en mouvement de rotation et inversément||
+Came et tige poussoir: ||IRRÉVERSIBLE, transforme un mouvement de rotation en translation||
